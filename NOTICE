@@ -1,0 +1,31 @@
+Think
+
+This standalone distribution is provided under the Apache License,
+Version 2.0. See LICENSE for the complete license text.
+
+Attribution
+
+The foundational think skill text was adapted from Codex Sub:
+https://github.com/Nie0008/codex-sub
+Public baseline commit: df7cd5f2da758a9b156ea4ad833186057e29f4eb.
+
+The upstream attribution is retained:
+Codex Adaptive Agents
+https://github.com/aweiht/codex-adaptive-agents
+Codex Sub was derived from version 0.7.0, upstream commit
+e25998d49320234eb6f183d3bc18a6558397c907, and was independently
+modified on 2026-10-02 for skill instructions and related functionality.
+
+Modified 2026-10-18 for this standalone distribution:
+- Removed personal context, machine-specific paths and runtime integration.
+- Removed dependencies on other skills and agent orchestration tools.
+- Added expanded method references and generic application examples.
+- Preserved method attribution and qualifications on evidence.
+
+This repository contains only the think skill, method references, interface
+metadata and documentation. Upstream orchestration software is not included
+or required. Origin attribution is not a runtime dependency or endorsement.
+
+Referenced articles, books and external websites are not redistributed.
+Their authors retain their respective rights; links identify method sources,
+not evidence that this prompt implementation has been validated in every use.
