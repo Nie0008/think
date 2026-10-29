@@ -22,6 +22,12 @@ Modified 2026-10-18 for this standalone distribution:
 - Added expanded method references and generic application examples.
 - Preserved method attribution and qualifications on evidence.
 
+Modified 2026-10-29:
+- Added leverage thinking with inputs, analysis steps, outputs, limitations
+  and source attribution for system interventions and reusable work.
+- Updated the method entrypoint and README to cover 27 methods, including
+  a generic leverage-thinking example. Existing methods are unchanged.
+
 This repository contains only the think skill, method references, interface
 metadata and documentation. Upstream orchestration software is not included
 or required. Origin attribution is not a runtime dependency or endorsement.
